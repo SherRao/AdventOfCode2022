@@ -24,6 +24,7 @@ def part2():
         lines = file.readlines()
         result = 0
         i = 0
+
         while(i < len(lines)):
             a = set(lines[i].strip())
             b = set(lines[i + 1].strip())
@@ -38,4 +39,5 @@ def part2():
 
 
 if(__name__ == "__main__"):
+    part1()
     part2()
