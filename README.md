@@ -1,2 +1,2 @@
-# AdventOfCode2022
-All my code for Advent of Code 2022
+# Advent of Code
+All my code for the Advent of Code's I've participated in over the years, folders sorted by year.
